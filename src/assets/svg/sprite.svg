@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+  <!-- личный кабинет -->
+  <symbol id="icon-personal-area" viewBox="0 0 25 25">
+    <path d="M12.3748 15.4484C16.157 15.4484 19.2232 12.3823 19.2232 8.59999C19.2232 4.81772 16.157 1.75159 12.3748 1.75159C8.5925 1.75159 5.52637 4.81772 5.52637 8.59999C5.52637 12.3823 8.5925 15.4484 12.3748 15.4484Z" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M23.75 23.875C21.5093 19.0228 17.2569 15.75 12.375 15.75C7.49312 15.75 3.24067 19.0265 1 23.875" stroke="white" stroke-width="2" stroke-miterlimit="10"/>
+  </symbol>
+
+  <!-- шеврно вправо -->
+  <symbol id="icon-chevron-down" viewBox="0 0 48 48">
+    <g clip-path="url(#clip0_3_4)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18.8462 14.0464C19.0415 13.8512 19.3581 13.8512 19.5534 14.0464L29.1534 23.6464C29.2471 23.7402 29.2998 23.8674 29.2998 24C29.2998 24.1326 29.2471 24.2598 29.1534 24.3535L19.5534 33.9535C19.3581 34.1488 19.0415 34.1488 18.8462 33.9535C18.651 33.7583 18.651 33.4417 18.8462 33.2464L28.0927 24L18.8462 14.7535C18.651 14.5583 18.651 14.2417 18.8462 14.0464Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 1C11.2975 1 1 11.2975 1 24C1 36.7025 11.2975 47 24 47C36.7025 47 47 36.7025 47 24C47 11.2975 36.7025 1 24 1ZM0 24C0 10.7452 10.7452 0 24 0C37.2548 0 48 10.7452 48 24C48 37.2548 37.2548 48 24 48C10.7452 48 0 37.2548 0 24Z" fill="black"/>
+    </g>
+    <defs>
+    <clipPath id="clip0_3_4">
+    <rect width="48" height="48" fill="white"/>
+    </clipPath>
+    </defs>
+  </symbol>
+
+<!-- <svg class="icon icon-chevron-down">
+        <use href="./assets/svg/sprite.svg#icon-chevron-down"></use>
+    </svg> -->
+
+</svg>
